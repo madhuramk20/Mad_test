@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "mrk.countryAPI.url",
+    "type": "java.lang.String",
+    "description": "A description for 'mrk.countryAPI.url'"
+  },
+  {
+    "name": "user.publicAPI.url",
+    "type": "java.lang.String",
+    "description": "A description for 'user.publicAPI.url'"
+  },
+  {
+    "name": "user.publicAPI.appid",
+    "type": "java.lang.String",
+    "description": "A description for 'user.publicAPI.appid'"
+  }
+]}
